@@ -7,6 +7,10 @@
     "version": "git add .",
     "postversion": "git push && git push --tags && npm publish"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharsinghal1610/visualization_super.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
