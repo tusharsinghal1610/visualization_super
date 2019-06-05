@@ -1,6 +1,6 @@
 {
   "name": "visualization_super",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "super",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "visualization_tool": "^2.0.17"
+    "visualization_tool": "^2.0.18"
   }
 }
