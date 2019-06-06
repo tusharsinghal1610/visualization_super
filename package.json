@@ -1,6 +1,6 @@
 {
   "name": "visualization_super",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "super",
   "main": "index.js",
   "scripts": {
